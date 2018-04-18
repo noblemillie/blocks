@@ -1,0 +1,15 @@
+{
+"tweets": [
+{"user": "Al", "content": "Radial dendrograms are dope", "timestamp": " Mon Dec 23 2013 21:30 GMT-0800 (PST)", "retweets": ["Raj","Pris","Roy"], "favorites": ["Sam", "Al"]},
+{"user": "Al", "content": "I thought they were called sunburst partitions.", "timestamp": "Mon Dec 23 2013 21:55 GMT-0800 (PST)", "retweets": ["Roy"], "favorites": []},
+{"user": "Al", "content": "Nice oatmeal roy.", "timestamp": "Mon Dec 23 2013 22:22 GMT-0800 (PST)", "retweets": [], "favorites": ["Roy","Sam"]},
+{"user": "Roy", "content": "Great work!", "timestamp": " Mon Dec 23 2013 7:20 GMT-0800 (PST)", "retweets": [], "favorites": []},
+{"user": "Roy", "content": "Spectacular oatmeal!", "timestamp": " Mon Dec 23 2013 7:23 GMT-0800 (PST)", "retweets": [], "favorites": []},
+{"user": "Roy", "content": "You went back to work at the carpet shop!", "timestamp": " Mon Dec 23 2013 7:47  GMT-0800 (PST)", "retweets": [], "favorites": []},
+{"user": "Roy", "content": "Just got a ticket for flexing and driving!", "timestamp": " Mon Dec 23 2013 8:05 GMT-0800 (PST)", "retweets": [], "favorites": ["Sam", "Sally", "Pris"]},
+{"user": "Pris", "content": "Going to have some Soylent.", "timestamp": " Mon Dec 23 2013 18:23 GMT-0800 (PST)", "retweets": [], "favorites": ["Sally"]},
+{"user": "Roy", "content": "What's spectacular oatmeal!", "timestamp": " Mon Dec 23 2013 7:23 GMT-0800 (PST)", "retweets": [], "favorites": []},
+{"user": "Pris", "content": "Maybe practice my freestyle raps.", "timestamp": " Mon Dec 23 2013 19:47  GMT-0800 (PST)", "retweets": [], "favorites": ["Sally"]},
+{"user": "Sam", "content": "@Roy Let's get swifty", "timestamp": " Mon Dec 23 2013 11:05 GMT-0800 (PST)", "retweets": ["Pris"], "favorites": ["Sally", "Pris"]}
+]
+}
